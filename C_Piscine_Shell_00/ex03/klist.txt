@@ -1,0 +1,5 @@
+Credentials cache: API:C284C5E6-F850-44B2-8F49-CBFD96617EE3
+        Principal: tnazeebo@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 19 16:50:50 2021  Jul 20 02:50:34 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
